@@ -1,4 +1,4 @@
-# Notepad and RecordRR's Rec Room Moderation Bypass
+# Notepad's Rec Room Moderation Bypass
 
 Overview This script toggles the blocking of various Rec Room moderation and analytics endpoints by modifying the Windows hosts file. It effectively prevents voice bans and other moderation actions.
 
